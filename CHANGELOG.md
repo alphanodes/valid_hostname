@@ -1,6 +1,10 @@
 # Changelog
 
-## 2.0.0 [2022-10-31]
+## 2.0.1 [2022-10-26]
+
+- German translations added
+
+## 2.0.0 [2022-10-26]
 
 - fork of <https://github.com/KimNorgaard/validates_hostname>
 - refactor gem
