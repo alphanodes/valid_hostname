@@ -3,7 +3,7 @@
 * Source: <https://github.com/AlphaNodes/valid_hostname>
 * Bugs:   <https://github.com/AlphaNodes/valid_hostname/issues>
 
-[![Run Rubocop](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml) [![Tests](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml)
+[![Run Rubocop](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml) [![Tests](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml) [![Gem Version](https://badge.fury.io/rb/valid_hostname.png)](http://badge.fury.io/rb/valid_hostname)
 
 ## Description
 
