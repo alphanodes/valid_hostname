@@ -3,7 +3,7 @@
 * Source: <https://github.com/AlphaNodes/valid_hostname>
 * Bugs:   <https://github.com/AlphaNodes/valid_hostname/issues>
 
-[![Tests](https://github.com/AlphaNodes/valid_hostname/workflows/Tests/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions?query=workflow%3A"Run+Tests) ![Run Rubocop](https://github.com/AlphaNodes/valid_hostname/workflows/Run%20Rubocop/badge.svg)
+[![Run Rubocop](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/rubocop.yml) [![Tests](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml/badge.svg)](https://github.com/AlphaNodes/valid_hostname/actions/workflows/tests.yml)
 
 ## Description
 
@@ -187,7 +187,7 @@ With :allow_wildcard_hostname
 
 ## Extra validators
 
-=== domainname
+### domainname
 
 * sets require_valid_tld: true
 * sets allow_numeric_hostname: true

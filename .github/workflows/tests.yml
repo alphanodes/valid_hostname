@@ -10,12 +10,11 @@ jobs:
 
     strategy:
       matrix:
-        ruby: ['2.7', '2.6', '3.0']
+        ruby: ['2.7', '3.0', '3.1']
       fail-fast: false
 
     steps:
-      - name: Checkout redmine_plugin_kit
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Update package archives
         run: sudo apt-get update --yes --quiet
