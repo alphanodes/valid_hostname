@@ -1,5 +1,7 @@
 /.bundle
 .DS_Store
 */.DS_Store
+.vscode
 Gemfile.lock
 pkg/
+*.gem
