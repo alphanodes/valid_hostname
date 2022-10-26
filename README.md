@@ -19,7 +19,7 @@ Extension to ActiveModel for validating hostnames and domain names.
 ### in Gemfile
 
 ```Gemfile
-gem 'valid_hostname', '~> 1.0'
+gem 'valid_hostname', '~> 2.0'
 ```
 
 ### Run bundler
