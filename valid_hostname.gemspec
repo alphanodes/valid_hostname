@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.metadata = { 'rubygems_mfa_required' => 'true' }
 
   spec.authors = ['Kim Nøgaard', 'Alexander Meindl']
-  spec.description = 'Extension to ActiveRecord::Base for validating hostnames'
+  spec.description = 'Extension to ActiveModel for validating hostnames'
   spec.summary = 'Checks for valid hostnames'
   spec.email = ['jasen@jasen.dk', 'a.meindl@alphanodes.com']
   spec.homepage = 'https://github.com/AlphaNodes/valid_hostname'
