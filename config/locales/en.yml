@@ -3,7 +3,7 @@ en:
     messages:
       hostname:
         invalid_hostname_length: must be between 1 and 255 characters long
-        invalid_label_length: must be between 1 and 63 characters long
+        invalid_label_length: must be between 1 and 63 characters long (each label)
         label_begins_or_ends_with_hyphen: begins or ends with hyphen
         label_contains_invalid_characters: "contains invalid characters (valid characters: [%{valid_chars}])"
         hostname_label_is_numeric: unqualified hostname part cannot consist of numeric values only
