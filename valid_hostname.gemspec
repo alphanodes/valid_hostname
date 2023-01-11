@@ -22,7 +22,6 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'activemodel'
   spec.add_development_dependency 'bundler'
-  spec.add_development_dependency 'debug' if ENV['ENABLE_DEBUG']
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec', '~> 3.10'
   spec.add_development_dependency 'rubocop'
